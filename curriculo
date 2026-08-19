@@ -1,0 +1,47 @@
+<html>
+<head>
+    <title>Meu Currículo</title>
+</head>
+
+<body>
+
+    <h1>Currículo</h1>
+    
+    <h2>Dados Pessoais</h2>
+    <p>Nome: Laura Martins </p>
+    <p>Idade: 30 anos</p>
+    <p>Cidade: Maracanaú - CE</p>
+    <p>E-mail: laura@email.com</p>
+    <p>Telefone: (85) 99999-9999</p>
+
+    <h2>Objetivo</h2>
+    <p>
+        Busco uma oportunidade para adquirir experiência
+        e desenvolver meus conhecimentos na minha área de atuação 
+    </p>
+
+    <h2>Formação</h2>
+    <p>Ensino Médio  Completo-Mara Maravilha  </p>
+    <p> Técnico  em Informática-IFCE(Instituto Federal  do Ceará)</p>
+     <p> Técnico em Vestuário-Senai</p>
+
+    <h2>Cursos</h2>
+<p>Mecânico de manutenção em máquinas de costura-Senai </p>
+    <p>Desenho de moda-Senai </p>
+
+    <h2> Faculdades</h2>   
+<p>Graduação em Engenharia de Produção-Unifametro</p>
+<p>Tecnólogo em Desing gráfico-Uniter </p>
+
+    <h2>Experiências</h2>
+    <p>Madala-Ateliẽ de moda </p>
+    <p>Luliere-Fabrica </p>
+
+     <h2>Habilidades</h2>
+    <p>Trabalho em equipe</p>
+    <p>Organização</p>
+    <p>Comunicação</p>
+<p>Pontualidade</p>
+
+</body>
+</html>
