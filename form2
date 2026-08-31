@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela</title>
+
+</head>
+<body>
+<table border="1">
+                    <tr>
+                        <td><b>Nome;</b></td>
+                        <td>Laura Lima</td>
+                    </tr>
+                    <tr>
+                        <td><b>Data de Nascimento;</b></td>
+                        <td>16/10/2004</td>
+                    </tr>
+                    <tr>
+                        <tr>
+                        <td><b>Endereco / Bairro;</b></td>
+                        <td>Rua Ali-Comdominios</td>
+                    </tr>
+                    
+                        <td><b>Cidade / Estado;</b></td>
+                        <td>Maracanau-Ceara</td>
+                    </tr>
+                    <tr>
+                        <td><b>Cep;</b></td>
+                        <td>12345678</td>
+                    </tr>
+                    
+                    <tr>
+                        <td><b>Natureza do cargo;</b></td>
+                        <td>Gerencia</td>
+                    </tr>
+                    <tr>
+                        <td><b>Area de interesse;</b></td>
+                        <td>Computacao</td>
+                    </tr>
+                    
+                    <tr>
+                        <td><b>Mini-curriculo;</b></td>
+                        <td>Estudante de tecnologia(5 periodo),tecnica em informatica</td>
+                    </tr>
+                    
+                    
+                    
+                </table>
+</body>
+</html>
