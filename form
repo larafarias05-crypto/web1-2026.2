@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+
+</head>
+<body>
+    <h1>Formulario</h1>
+        <form>
+            <fieldset>Dados Pessoais
+                <br>
+            <label>Nome:</label>
+            <input type="name" nome="nome">
+            <br><br>
+            <label>Data de nascimento:</label>
+            <input type="date" name="data_nascimento">
+            <br><br>
+            <label>Endereco:</label>
+            <input type="name" name="endereco">
+            <br><br>
+            <label>Bairro:</label>
+            <input type="name" name="bairro">
+            <br><br>
+            <label>Cidade:</label>
+            <input type="name" name="cidade">
+            <br><br>
+            <label>Cep:</label>
+            <input type="number" name="cep">
+            <br><br>
+            <label>Estado:</label>
+            <input type="name" name="estado">
+            <br><br>
+            <label>Cor favorita:</label>
+            <input type="color" name="cor_favorita">
+            <br><br>
+            <label>Nivel de satisfacao:</label>
+            <input type="range" name="satisfacao" min="0" max="100" value="50">
+            </fieldset>
+            <fieldset>Dados profissionais
+                <br>
+                 <label>Natureza do cargo:</label>
+                 <br>
+             <label>Gerencia</label>
+            <input type="radio" nome="gerencia">
+            <label>Financeiro</label>
+            <input type="radio" nome="financeiro">
+            <label>Recepcao</label>
+            <input type="radio" nome="recepcao">
+            <label>Administracao</label>
+            <input type="radio" nome="administracao">
+            <label>Juridico</label>
+            <input type="radio" nome="juridico">
+            <br>
+            <label>Area de interresse:</label>
+                 <br>
+             <label>Computacao</label>
+            <input type="radio" nome="Computacao">
+            <label>Quimica</label>
+            <input type="radio" nome="quimica">
+            <label>Meio ambiente</label>
+            <input type="radio" nome="meio ambiente">
+            <label>Engenharia</label>
+            <input type="radio" nome="engenharia">
+            <label>Matematica</label>
+            <input type="radio" nome="matematica">
+            <br>
+            <label>Mini-curriculo:</label>
+                 <br>
+             <textarea rows="5" cols="50"> </textarea>
+             <br>
+             <button type="submit">Enviar</button>
+             <button type="reset">Limpar</button>
+
+            <br><br>
+
+
+</body>
+</html>
